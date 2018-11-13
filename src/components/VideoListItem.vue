@@ -31,7 +31,7 @@
 	}
 
 	li:hover {
-		background-color: #eee;
+		background-color: #D8DFD8;
 	}
 </style>
 

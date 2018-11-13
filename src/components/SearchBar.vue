@@ -20,7 +20,13 @@
 
 <style scoped>
 	input {
-		width: 75%;
+		width: 70%;
+		border: 2px solid #D8DFD8;
+		margin-top: 2%;
+	}
+
+	input:focus {
+        outline: none;
 	}
 
 	div{
